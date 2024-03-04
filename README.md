@@ -9,4 +9,4 @@ HTML5: Used for structuring the web page content.
 CSS3: Used for styling and layout.
 Dart: Used for client-side scripting and dynamic functionalities.
 
-![image](https://github.com/khalid7216/grade-calculator/assets/156210757/ed6c551d-8ec4-4f51-b572-6bc9099ec4a8)
+![image](https://github.com/khalid7216/grade-calculator/assets/156210757/43bf2a96-fdd3-4a54-a38c-2fdc74010685)
