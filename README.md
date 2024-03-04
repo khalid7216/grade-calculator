@@ -2,7 +2,7 @@ Project Overview
 This project is a food ordering system developed for the Food Order Assignment. The system allows users to browse a menu, select items, and place orders. The implementation is done using HTML for structure, CSS for styling, and Dart for dynamic functionality.
 
 Contributors
-Developer: [Waqas]
+Developer: [khalid]
 Collaborator: Khalid Sanawer
 Technologies Used
 HTML5: Used for structuring the web page content.
